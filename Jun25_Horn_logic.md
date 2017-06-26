@@ -26,7 +26,7 @@ Example of rules learnt by the RL mentioned above.
 >Horn clause logic is equivalent in computational power to a universal Turing machine.
 (okay, what's universal Turing machine, first?)
 + model theory (don't understand what is it)
-+ machine theorem proving -- sounds so cool![https://en.wikipedia.org/wiki/Automated_theorem_proving]
++ [machine theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving) -- sounds so cool!
 
 
 
