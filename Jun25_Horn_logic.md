@@ -25,6 +25,8 @@ Example of rules learnt by the RL mentioned above.
 + logic programming -- it's used in programming language Prolog. Wikipedia said...
 >Horn clause logic is equivalent in computational power to a universal Turing machine.
 (okay, what's universal Turing machine, first?)
-+ model theory
++ model theory (don't understand what is it)
++ machine theorem proving -- sounds so cool![https://en.wikipedia.org/wiki/Automated_theorem_proving]
+
 
 
